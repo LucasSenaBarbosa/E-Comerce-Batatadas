@@ -237,7 +237,9 @@ O sistema possui:
 
 # 👨‍💻 Desenvolvido por
 
-Lucas Sena
+Gustavo de Carvalho Azzola
+Lucas Sena Barbosa
+Luis Henrique Marques
 
 ---
 
